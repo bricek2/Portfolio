@@ -5,6 +5,8 @@ description: |
 output_dir: "docs"
 navbar:
   right:
+    - text: "Test"
+      href: test.Rmd
     - text: "Home"
       href: index.html
     - text: "About"
